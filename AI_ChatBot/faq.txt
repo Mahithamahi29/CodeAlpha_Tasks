@@ -1,0 +1,6 @@
+hello=Hello! How can I help you?
+hi=Hi there! What can I do for you?
+how are you=I'm doing great! Thanks for asking.
+what is ai=AI stands for Artificial Intelligence.
+what is java=Java is a high-level, object-oriented programming language.
+bye=Goodbye! Have a nice day.
